@@ -1,12 +1,12 @@
 {
-  "name": "strapi-stripe",
+  "name": "api",
   "version": "0.1.0",
   "private": true,
   "description": "A Strapi application",
   "scripts": {
     "build": "strapi build",
     "deploy": "strapi deploy",
-    "develop": "strapi develop",
+    "dev": "strapi develop",
     "start": "strapi start",
     "strapi": "strapi"
   },
